@@ -16,7 +16,7 @@ Data fields | Data type | Notes
  size | Integer | less than 100
 
 ### Request
-```json http
+```json
 {
   "method": "get",
   "url": "https://api.qrserver.com/v1/create-qr-code/?size=150x150&data=1343423"
