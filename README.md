@@ -1,7 +1,3 @@
----
-tags: [qr-borrow]
----
-
 # Borrow-ID-Qr
 Create and Read Qr-code for borrow id
 ## Create Qr-code
